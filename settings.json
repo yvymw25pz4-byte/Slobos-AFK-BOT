@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK",
+    "username": "BeBo",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "144.31.46.6",
+    "ip": "dellsmp.mcsh.io",
     "port": 14586,
     "version": "1.21.1"
   },
